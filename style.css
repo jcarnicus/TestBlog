@@ -1,0 +1,27 @@
+.lw { font-size: 60px; }
+nav{
+  border: 2px solid blue;
+  border-radius: 30px;
+  padding: 4px;
+  color: #0000FF;
+    background-color: orange;
+   -ms-transform: rotate(2.5deg); /* IE 9 */
+    -webkit-transform: rotate(2.5deg); /* Chrome, Safari, Opera */
+    transform: rotate(2.5deg);
+     font-family: "comic sans MS", Georgia, Serif;
+}
+p {
+    font-family: "Helvetica Neue", Georgia, Serif;
+}
+
+footer {
+    border: 2px solid cyan;
+  border-radius: 45px;
+  padding: 6px;
+  color: #6495ED;
+    background-color: #FFFF00;
+   -ms-transform: rotate(-2.5deg); /* IE 9 */
+    -webkit-transform: rotate(-2.5deg); /* Chrome, Safari, Opera */
+    transform: rotate(-2.5deg);
+  font-family: "comic sans MS", Georgia, Serif;
+}
